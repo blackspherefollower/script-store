@@ -3,3 +3,7 @@ node_modules
 *.log
 .dist/**
 lib/server/assets.json
+dynamodb/
+.idea/
+*.njsproj
+package-lock.json
